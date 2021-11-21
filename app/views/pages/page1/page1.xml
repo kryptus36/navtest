@@ -1,0 +1,7 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd">
+  <StackLayout>
+    <Label text='Nav in root frame' tap="navRootFrame" />
+    <Label text='Nav in content frame' tap="navContentFrame" />
+
+  </StackLayout>
+</Page>

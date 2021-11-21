@@ -1,0 +1,5 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd">
+  <StackLayout>
+    <Frame id="content-frame" defaultPage="./views/pages/page1/page1"></Frame>
+  </StackLayout>
+</Page>
