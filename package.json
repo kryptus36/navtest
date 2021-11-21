@@ -4,7 +4,6 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "@nativescript-community/ui-lottie": "^4.3.2",
     "@nativescript/core": "~8.1.1",
     "@nativescript/theme": "~3.0.1"
   },
